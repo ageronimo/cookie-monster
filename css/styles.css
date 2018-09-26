@@ -51,7 +51,7 @@ li:hover {
 }
 
 .backgroundCookie {
-    background: url(../assets/cookie-back.png) fixed center no-repeat;
+    background: url(../assets/cookie.PNG) fixed center no-repeat;
     left: 0;
     right: 0;
     z-index: -1;
